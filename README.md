@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Typescript and MongoDb**
 
-- 👨‍💻 All of my projects are available at [repositories](repositories)
+- 👨‍💻 All of my projects are available at [repositories](https://github.com/TotiFz?tab=repositories)
 
 - 💬 Ask me about **Js,React,Redux and Node**
 
